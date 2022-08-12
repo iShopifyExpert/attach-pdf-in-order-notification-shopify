@@ -1,4 +1,4 @@
-# attach-pdf-in-order-notification-shopify
+# Attach pdf in order notification Shopify
 Attach PDF in Order Notification Shopify
 
 
